@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-82e0b": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-82e0b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-82e0b"
+  }
+}
